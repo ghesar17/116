@@ -27,6 +27,7 @@ public class MediaLibrary {
             Double bayesian = ratable.bayesianAverageRating(2, 3);
             ratableHashMap.put(ratable.getTitle(), bayesian);
             bayesianRatings.add(bayesian);
+            //apidfjq'pfiwefif
         }
         //at this point it would look like
 //asdijas;doiad
@@ -37,7 +38,7 @@ public class MediaLibrary {
         //need to return ["Moonlight","Chamber of Reflection","LOL"]
         //then i can just search for the actual ratable object by title which is chill i think
 
-        bayesianRatings.sort();
+//        bayesianRatings.sort();
 
 
 
